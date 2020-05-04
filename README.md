@@ -5,3 +5,5 @@ In order to start project follow below steps:
 2. npm start
 
 You should see application up and running.
+
+Final application has been deployed to https://floating-headland-97802.herokuapp.com/
